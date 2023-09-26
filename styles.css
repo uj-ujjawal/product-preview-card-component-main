@@ -19,7 +19,7 @@ html {
 	--primary-color-1: hsl(158, 36%, 37%);
 	--primary-color-2: hsl(30, 38%, 92%);
 	--dark-blue: hsl(212, 21%, 14%);
-	--Dark-grayish-blue: hsl(228, 12%, 48%);
+	--dark-grayish-blue: hsl(228, 12% q, 48%);
 	--White: hsl(0, 0%, 100%);
 }
 
@@ -27,7 +27,7 @@ body {
 	font-size: 1.4rem;
 	min-height: 100vh;
 	background-color: var(--primary-color-2);
-	color: var(--Dark-grayish-blue);
+	color: var(--dark-grayish-blue);
 
 	width: 100vw;
 	min-height: 100vh;
@@ -61,7 +61,7 @@ body {
 
 .product-title .small {
 	letter-spacing: 0.5rem;
-	color: var(--Dark-grayish-blue);
+	color: var(--dark-grayish-blue);
 	text-transform: uppercase;
 }
 .product-title .big {
