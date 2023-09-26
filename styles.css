@@ -120,7 +120,7 @@ body {
 		width: 55rem;
 		display: flex;
 		justify-content: space-between;
-		border: 3px solid blue;
+		/* border: 3px solid blue; */
 	}
 	.product-image img {
 		height: 100%;

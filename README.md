@@ -6,6 +6,7 @@
   - [Screenshot](#screenshot)
     - [Mobile View](#mobile-view)
     - [Desktop View](#desktop-view)
+  - [Live Preview URL](#live-preview-url)
   - [Technologies Used](#technologies-used)
   - [Acknowledgments](#acknowledgments)
 
@@ -28,6 +29,10 @@ The Challenge is to build out this **"product preview card component"** and get 
 ### Desktop View
 
   <center><img src="./images/desktop.png" width="1200"></center>
+
+## Live Preview URL
+
+<https://uj-ujjawal.github.io/product-preview-card-component-main/>
 
 ## Technologies Used
 
